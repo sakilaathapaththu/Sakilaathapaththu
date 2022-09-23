@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href=https://www.linkedin.com/in/sakila-athapaththu-412647215/ ><img align="left" src= "https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
-<a href=https://replit.com/@IT21326240 ><img align="left" src="" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href=https://replit.com/@IT21326240 ><img align="left" src="" alt="" width="21px"/></a>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakilaathapaththu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
