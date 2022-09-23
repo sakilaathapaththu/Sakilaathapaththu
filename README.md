@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <a href=https://www.linkedin.com/in/sakila-athapaththu-412647215/ ><img align="left" src= "https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 <a href=https://replit.com/@IT21326240 ><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freplit.com%2F&psig=AOvVaw178U8lZKWeSlS9TIQBCMJt&ust=1663830598746000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNjbk5OqpfoCFQAAAAAdAAAAABAJ" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+![Snake animation](https://github.com/Sakilaathapaththu/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
