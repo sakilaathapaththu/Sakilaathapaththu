@@ -1,31 +1,86 @@
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sakila%20Athapaththu&fontSize=42&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Android%20Developer&descAlignY=58&descSize=16&descColor=9d4edd"/>
+
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Sakila+%F0%9F%91%8B;Android+%26+Mobile+Developer;Full+Stack+Web+Developer;Machine+Learning+Engineer;AI+%26+LLM+Explorer;Arduino+%26+IoT+Maker;3D+Artist+in+Blender;QA+%26+Testing+Enthusiast)](https://git.io/typing-svg)
-
-<!-- BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sakilaathapaththu&color=00e5ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Sakilaathapaththu?label=Followers&style=flat-square&color=9d4edd)](https://github.com/Sakilaathapaththu)
-[![GitHub stars](https://img.shields.io/github/stars/Sakilaathapaththu?label=Stars&style=flat-square&color=ffd60a)](https://github.com/Sakilaathapaththu)
-![Location](https://img.shields.io/badge/📍_Kurunegala,_Sri_Lanka-1a2035?style=flat-square)
-![Open to Work](https://img.shields.io/badge/●_Open_to_Work-0b0f1a?style=flat-square&color=39ff14)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Android+%26+Mobile+Developer+%F0%9F%93%B1;Full+Stack+Web+Developer+%F0%9F%8C%90;Machine+Learning+Engineer+%F0%9F%A4%96;AI+%26+LLM+Explorer+%E2%9C%A8;Arduino+%26+IoT+Maker+%E2%9A%A1;3D+Artist+in+Blender+%F0%9F%8E%A8;QA+%26+Testing+Enthusiast+%F0%9F%A7%AA;Next.js+%26+React+Developer+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
+<!-- BADGES -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sakilaathapaththu&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Sakilaathapaththu?label=FOLLOWERS&style=for-the-badge&color=9d4edd&labelColor=0b0f1a)](https://github.com/Sakilaathapaththu?tab=followers)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Sakilaathapaththu?label=TOTAL+STARS&style=for-the-badge&color=ffd60a&labelColor=0b0f1a)](https://github.com/Sakilaathapaththu)
+
+</div>
+
+<br/>
+
 ---
 
-## 👤 About Me
+## 👨‍💻 About Me
 
 ```yaml
-name        : Sakila Athapaththu
-handle      : @sakilaathapaththu
-location    : Kurunegala, Sri Lanka
-role        : Full-Stack Developer & AI/ML Engineer
-focus       : Android · React/Next.js · FastAPI · Flask · ML · LLMs
-hardware    : Arduino & IoT prototyping
-creative    : 3D modeling in Blender
-available   : Open to collaborate on AI/ML & Open Source projects
+╔══════════════════════════════════════════════════════════╗
+║              SAKILA ATHAPATHTHU — profile.yaml           ║
+╚══════════════════════════════════════════════════════════╝
+
+  name        :  Sakila Athapaththu
+  handle      :  @sakilaathapaththu
+  location    :  Kurunegala, Sri Lanka 🇱🇰
+  role        :  Full-Stack Developer & AI/ML Engineer
+
+  frontend    :  React · Next.js · JavaScript · HTML · CSS
+  backend     :  Node.js · FastAPI · Flask · Express · PHP
+  mobile      :  Android · Kotlin · React Native
+  ai_ml       :  TensorFlow · PyTorch · Scikit-learn · LLMs
+  hardware    :  Arduino · IoT Prototyping ⚡
+  databases   :  MySQL · MongoDB · Oracle
+  cloud       :  Azure · GCP · Docker · Git
+  design      :  Blender 3D · Figma · Photoshop · Illustrator
+  testing     :  Selenium · Jest · Postman · QA
+
+  status      :  ● Open to collaborate on AI/ML & Open Source
+  fun_fact    :  I combine hardware + software to build
+                 real-world solutions 🚀
 ```
+
+<br/>
+
+---
+
+## 🏆 GitHub Achievements & Badges
+
+<div align="center">
+
+| 🥇 Achievement | 🎯 Description | ✅ Status |
+|:---:|:---:|:---:|
+| 🦈 **Pull Shark** | Opened multiple merged pull requests | `×3 Unlocked` |
+| ⚡ **Quickdraw** | Closed an issue within 5 minutes | `Unlocked` |
+| 🌟 **Starstruck** | Repository received 16+ stars | `Unlocked` |
+| 🎉 **YOLO** | Merged first pull request | `Unlocked` |
+| 🧠 **Galaxy Brain** | Answer marked as solution | `Unlocked` |
+| 📦 **Open Sourcer** | 5+ active public repositories | `Active` |
+| 📱 **App Shipper** | Published Android application | `Shipped` |
+| 🤖 **AI Builder** | ML model shipped to production | `Earned` |
+| 🔥 **Streak Master** | 21-day contribution streak | `21 Days` |
+| 🛡️ **Security Hawk** | Reported security vulnerability | `Unlocked` |
+
+</div>
+
+<!-- TROPHIES — fixed URL with correct params -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sakilaathapaththu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
 
 ---
 
@@ -58,7 +113,7 @@ available   : Open to collaborate on AI/ML & Open Source projects
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🧪 QA & Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -88,42 +143,48 @@ available   : Open to collaborate on AI/ML & Open Source projects
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+<br/>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakilaathapaththu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0b0f1a&title_color=00e5ff&icon_color=9d4edd&text_color=dde4f0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakilaathapaththu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0b0f1a&title_color=00e5ff&text_color=dde4f0" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Sakilaathapaththu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&icon_color=9d4edd&text_color=c9d1d9&ring_color=00e5ff" alt="Sakila's GitHub Stats"/>
+&nbsp;
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakilaathapaththu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sakilaathapaththu&theme=tokyonight&hide_border=true&background=0B0F1A&ring=00E5FF&fire=F72585&currStreakLabel=00E5FF&sideLabels=9D4EDD&dates=5A6A8A)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Sakilaathapaththu&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00E5FF&fire=FF2D78&currStreakLabel=00E5FF&sideLabels=9D4EDD&dates=5A6A8A&currStreakNum=ffffff&sideNums=ffffff&stroke=1A2035" alt="GitHub Streak"/>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakilaathapaththu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakilaathapaththu&bg_color=0D1117&color=00e5ff&line=9d4edd&point=ff2d78&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
+
+<br/>
 
 ---
 
 ## 🐍 Contribution Snake
 
+> ⚠️ **Note:** The snake animation requires your GitHub Actions workflow to run first.
+> Make sure `.github/workflows/main.yml` has run and the `output` branch exists.
+
 <div align="center">
 
-![Snake animation](https://github.com/Sakilaathapaththu/Sakilaathapaththu/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Sakilaathapaththu/Sakilaathapaththu/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -131,19 +192,14 @@ available   : Open to collaborate on AI/ML & Open Source projects
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakila-athapaththu-412647215/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakila.atapattu/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakila-athapaththu-412647215/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sakila.atapattu/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-*"Building the future, one commit at a time."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-</div>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00e5ff&animation=fadeIn&fontAlignY=65"/>
